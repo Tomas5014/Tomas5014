@@ -1,4 +1,4 @@
-# Olá, sou o Tomas Pires 👋
+# Olá, sou o Tomás Pagani Pires 👋
 
 Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL), com foco em **segurança de redes** e **desenvolvimento web**. Atualmente desenvolvo pesquisa em detecção de ataques DoS/DDoS com algoritmos de machine learning como bolsista PROIC.
 
