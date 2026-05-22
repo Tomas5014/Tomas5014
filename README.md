@@ -10,7 +10,7 @@ Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL)
 - 🔬 Bolsista PROIC — pesquisa em detecção de intrusões com mineração de fluxos contínuos de dados
 - 🐍 Ex Bolsista e agora colaborador PET (PETCODE/UEL) — desenvolvimento web e ensino de Python
 - 🎯 Interesse principal: cibersegurança e redes — com planos de mestrado na área
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/tomas5014) · tomas.pagani.pires@gmail.com
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-pires-86004a274/) · tomas.pagani.pires@gmail.com
 
 ---
 
