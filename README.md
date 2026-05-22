@@ -1,20 +1,19 @@
-# Olá, sou o Tomás Pagani Pires 👋
-
-Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL), com foco em **segurança de redes** e **desenvolvimento web**. Atualmente desenvolvo pesquisa em detecção de ataques DoS/DDoS com algoritmos de machine learning como bolsista PROIC.
-
----
-
-## Sobre mim
-
-- 🎓 4º ano de Ciência da Computação — UEL
-- 🔬 Bolsista PROIC — pesquisa em detecção de intrusões com mineração de fluxos contínuos de dados
-- 🐍 Ex Bolsista e agora colaborador PET (PETCODE/UEL) — desenvolvimento web e ensino de Python
-- 🎯 Interesse principal: cibersegurança e redes — com planos de mestrado na área
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-pires-86004a274/) · tomas.pagani.pires@gmail.com
+# Hello, I'm Tomás Pagani Pires 👋
+Computer Science student at the State University of Londrina (UEL), focused on **network security** and **web development**. I'm currently conducting research on DoS/DDoS attack detection using machine learning algorithms as a PROIC scholarship holder.
 
 ---
 
-## Tecnologias
+## About me
+
+- 🎓 4th year Computer Science student — UEL
+- 🔬 PROIC Scholar — research on intrusion detection with data stream mining
+- 🐍 Former Scholar and now contributor at PET (PETCODE/UEL) — web development and Python teaching
+- 🎯 Main interest: cybersecurity and networks — with plans for a Master's degree in the field
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-pires-86004a274/) · tomas.pagani.pires@gmail.com
+
+---
+
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,14 +24,14 @@ Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL)
 
 ---
 
-## Pesquisa atual
+## Current Research
 
-**Avaliação de Algoritmos Supervisionados de Mineração de Fluxos Contínuos na Detecção de Variações de Ataques de Negação de Serviço**
+**Evaluation of Supervised Data Stream Mining Algorithms for Detecting Variations of Denial-of-Service Attacks**
 
-Investigo como modelos de machine learning se adaptam quando os padrões de ataques DoS/DDoS evoluem (concept drift), construindo cenários experimentais com diferentes níveis de similaridade entre ataques e avaliando o desempenho temporal dos modelos.
+I investigate how machine learning models adapt when DoS/DDoS attack patterns evolve (concept drift), building experimental scenarios with varying levels of similarity between attacks and evaluating the temporal performance of the models.
 
 `Python` `Machine Learning` `Data Stream Mining` `Cybersecurity` `IDS`
 
 ---
 
-*Aberto a oportunidades de estágio em segurança da informação ou desenvolvimento web.*
+*Open to internship opportunities in information security or web development.*
